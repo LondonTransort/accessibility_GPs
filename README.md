@@ -6,4 +6,6 @@ The dynamic accessibility to GPs
 
 
 ![accessibility_verticalEquity](https://user-images.githubusercontent.com/51216959/105784244-514e6480-5f70-11eb-9d8f-1b2aa6d7057c.gif)
+
+
 The dynamic vertical equity 
